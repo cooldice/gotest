@@ -9,3 +9,4 @@ rebase test 2
 rebase 
 test
 d
+d

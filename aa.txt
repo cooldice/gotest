@@ -30,3 +30,5 @@ sec
 DDD
 
 QQQ
+
+add after rename a.txt -> aa.txt

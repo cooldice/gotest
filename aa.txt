@@ -34,3 +34,4 @@ QQQ
 add after rename a.txt -> aa.txt
 
 add by branch-test branch
+add by branch-test branch in gotest2 local
